@@ -5,9 +5,9 @@ Using a Python batch process to generate length unlimited meeting memo from meet
 Added **concurrent** feature, to boost 5x speed. It is now using 5 ThreadPoolExecutor workers which cost your money running away 5x faster.
 
 ## Dependencies:
-openai
-langchain
+1. openai
+2. langchain
 
 
 ## Acknowledgement:
-prompt provided by: @ouyangzhiping
+prompt provided by: [@ouyangzhiping](https://github.com/ouyangzhiping)
